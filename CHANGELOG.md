@@ -4,4 +4,8 @@
 
 ## 1.5.0
 
-- Change README file
+- Change README file.
+
+## 1.6.0
+
+- Add LICENSE file.

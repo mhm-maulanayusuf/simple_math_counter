@@ -1,7 +1,7 @@
 name: simple_math_counter
 description: This is very simple math counter.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/mhm-maulanayusuf/simple_math_counter
 
 environment:
   sdk: ^3.3.4
