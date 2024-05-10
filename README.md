@@ -1,1 +1,1 @@
-This very simple math counter.
+This is very simple math counter.
