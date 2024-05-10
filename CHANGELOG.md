@@ -9,3 +9,7 @@
 ## 1.6.0
 
 - Add LICENSE file.
+
+## 1.7.0
+
+- Change version pubspec.yaml.

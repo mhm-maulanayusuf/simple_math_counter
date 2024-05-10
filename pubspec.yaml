@@ -1,6 +1,6 @@
 name: simple_math_counter
 description: This is very simple math counter.
-version: 1.0.0
+version: 1.7.0
 repository: https://github.com/mhm-maulanayusuf/simple_math_counter
 
 environment:
